@@ -1,5 +1,12 @@
 ## Hi there 👋
+My name is Graham Greenberg, and I attend the Latin School of Chicago.
 
+My interests:
+ - Soccer. I am probably one of the biggest fans of the game you will meet. I love to play, watch, and talk soccer 24/7. It's something I will never grow tired of.
+ - I'm currently working on websites with AI to potentially scale into profitable businesses. I would love to collaborate with somebody or to just exchange ideas.
+ - I am also interested in web/app design.
+ - Coding languages: Currently none that I am particularly skilled at. However, I am currently learning Python.
+ - Goals: To make some cool online businesses that I am able to scale, gain experience and knowledge from, and have fun with.
 <!--
 **ggreenbe/ggreenbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
